@@ -30,3 +30,10 @@ menu {
 
 .links:hover {
     background-color: aqua;
+}
+#contact{
+	background: firebrick;
+}
+#contact iframe{
+	width: 100%
+}
